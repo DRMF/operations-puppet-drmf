@@ -1,19 +1,19 @@
-The '''NIST Digital Repository of Mathematical Formulae''' is designed for             
-a mathematically literate audience and should 
+The '''NIST Digital Repository of Mathematical Formulae''' is designed for
+a mathematically literate audience and should
 
-# facilitate interaction among a [[community]] of mathematicians and scientists interested in [[wikipedia:compendia|compendia]] formulae data for '''orthogonal polynomials and special functions'''; 
-# be [[expandable]], allowing the input of new formulae from the literature; 
-# represent the context-free full [[semantic]] information concerning individual formulas; 
-# have a user friendly, consistent, and hyperlinkable viewpoint and authoring [[perspective]]; 
-# contain easily [[Special:MathSearch|searchable]] mathematics; and 
-# take advantage of modern [[MathML]] tools for easy to read, scalably rendered content driven mathematics. 
+# facilitate interaction among a [[community]] of mathematicians and scientists interested in [[wikipedia:compendia|compendia]] formulae data for '''orthogonal polynomials and special functions''';
+# be [[expandable]], allowing the input of new formulae from the literature;
+# represent the context-free full [[semantic]] information concerning individual formulas;
+# have a user friendly, consistent, and hyperlinkable viewpoint and authoring [[perspective]];
+# contain easily [[Special:MathSearch|searchable]] mathematics; and
+# take advantage of modern [[MathML]] tools for easy to read, scalably rendered content driven mathematics.
 
 For more information see [http://link.springer.com/chapter/10.1007%2F978-3-319-08434-3_30 Digital Repository of Mathematical Formulae] or [http://arxiv.org/abs/1404.6519 arXiv:1404.6519].
 
 == Sample Seeding Project Implementations ==
 
-<tt>DLMF</tt>:  [[Zeta and Related Functions]] 
- 
+<tt>DLMF</tt>:  [[Zeta and Related Functions]]
+
 <tt>KLS</tt> and <tt>KLSadd</tt>: [[Orthogonal Polynomials]]
 
 == Useful Pages ==
@@ -227,7 +227,7 @@ domain.
 = Disclaimer =
 
 While NIST has made every effort to ensure the accuracy and reliability of the
-information in the DLMF, the DLMF is expressly provided “AS-IS.” NIST makes NO WARRANTY
+information in the DLMF, the DLMF is expressly provided "AS-IS". NIST makes NO WARRANTY
 OF ANY TYPE, including no warranties of merchantability or fitness for a particular
 purpose. NIST makes no warranties or representations as to the correctness, accuracy,
 or reliability of the DLMF. As a condition of using the DLMF, you explicitly release
